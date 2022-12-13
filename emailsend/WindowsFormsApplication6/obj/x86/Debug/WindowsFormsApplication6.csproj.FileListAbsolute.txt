@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\zc\设备上下线检测\设备上下线检测\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\zc\设备上下线检测\设备上下线检测\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\zc\带回去资料\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ygq\Desktop\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\ygq\Desktop\报警接收输出声音\邮件发送\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
